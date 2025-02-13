@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137 149" width="137" height="149">
+	<title>Make a Deposit</title>
+	<style>
+		.s0 { fill: none;stroke: #ffc400;stroke-miterlimit:10;stroke-width: 3 } 
+	</style>
+	<g>
+		<path fill-rule="evenodd" class="s0" d="m11.4 77.2h13.9v37.7h-13.9z"/>
+		<path fill-rule="evenodd" class="s0" d="m43.5 55.1h13.9v60.5h-13.9z"/>
+		<path fill-rule="evenodd" class="s0" d="m76.3 67.7h13.8v47.9h-13.8z"/>
+		<path fill-rule="evenodd" class="s0" d="m107.8 40h13.8v75.6h-13.8z"/>
+		<path fill-rule="evenodd" class="s0" d="m131.7 125.6v13.9h-127.2v-13.9z"/>
+		<path fill-rule="evenodd" class="s0" d="m19.6 60.8c-4.5 0-8.2-3.7-8.2-8.2 0-4.5 3.7-8.2 8.2-8.2 4.5 0 8.2 3.7 8.2 8.2 0 4.5-3.7 8.2-8.2 8.2z"/>
+		<path fill-rule="evenodd" class="s0" d="m50.5 38.8c-4.6 0-8.2-3.7-8.2-8.2 0-4.6 3.6-8.2 8.2-8.2 4.5 0 8.2 3.6 8.2 8.2 0 4.5-3.7 8.2-8.2 8.2z"/>
+		<path fill-rule="evenodd" class="s0" d="m83.2 50.1c-4.5 0-8.2-3.7-8.2-8.2 0-4.5 3.7-8.2 8.2-8.2 4.5 0 8.2 3.7 8.2 8.2 0 4.5-3.7 8.2-8.2 8.2z"/>
+		<path fill-rule="evenodd" class="s0" d="m114.7 22.4c-4.5 0-8.2-3.7-8.2-8.2 0-4.5 3.7-8.2 8.2-8.2 4.5 0 8.2 3.7 8.2 8.2 0 4.5-3.7 8.2-8.2 8.2z"/>
+		<path fill-rule="evenodd" class="s0" d="m25.3 46.9l17.6-11.3"/>
+		<path fill-rule="evenodd" class="s0" d="m58.7 31.2l16.3 7.6"/>
+		<path fill-rule="evenodd" class="s0" d="m90.1 37.5l18.9-17.6"/>
+	</g>
+</svg>

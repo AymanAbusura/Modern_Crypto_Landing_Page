@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 134 140" width="134" height="140">
+	<title>Register an Account</title>
+	<style>
+		.s0 { fill: none;stroke: #ffc400;stroke-miterlimit:10;stroke-width: 3 } 
+		.s1 { fill: none;stroke: #ffc400;stroke-linecap: round;stroke-miterlimit:10;stroke-width: 3 } 
+		.s2 { fill: none;stroke: #ffc400;stroke-linecap: round;stroke-miterlimit:1;stroke-width: 3 } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m68.3 42.3h23.6v34h-23.6z"/>
+	<path fill-rule="evenodd" class="s0" d="m22.4 61.9h31.5"/>
+	<path fill-rule="evenodd" class="s0" d="m22.4 75.7h31.5"/>
+	<path fill-rule="evenodd" class="s0" d="m22.4 90.1h70.1"/>
+	<path fill-rule="evenodd" class="s0" d="m22.4 103.2h70.1"/>
+	<path fill-rule="evenodd" class="s0" d="m36.2 15.4l-26.2 26.2v83.9h93v-110.1h-66.8z"/>
+	<path fill-rule="evenodd" class="s0" d="m9.3 42.3h26.2"/>
+	<path fill-rule="evenodd" class="s0" d="m36.2 15.4l-1.7 28.1"/>
+	<path fill-rule="evenodd" class="s0" d="m112.2 73.1h11.8v52.4h-11.8z"/>
+	<path fill-rule="evenodd" class="s1" d="m112.2 71.8l6.6-14.4"/>
+	<path fill-rule="evenodd" class="s2" d="m124 71.8l-5.2-14.4"/>
+</svg>
